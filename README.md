@@ -3,7 +3,7 @@
 This is a personal project carried out at Vueling University.
 The project consists of replicating a website, in this case that of FCBarcelona's first team.
 
-![fcb-shield](src/assets/img/fcb-shield.png)
+![fcb-shield](src/assets/fcb.png)
 
 ## Requirements
 
