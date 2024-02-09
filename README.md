@@ -1,3 +1,7 @@
+# Preview
+
+![Captura de pantalla 2024-02-09 a las 21 18 55](https://github.com/christianoller8/fcb-firstTeam/assets/105523995/b5687cf0-9c18-4cda-8724-c4e3ea16c725)
+
 # FCBProject
 
 This is a personal project carried out at Vueling University.
