@@ -28,7 +28,7 @@ The project consists of replicating a website, in this case that of FCBarcelona'
 
 
 
-## Contributing
+## Contributing  
 
 If you have suggestions for how Project could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
 You can do so at our email address christianoller.dev@gmail.com
